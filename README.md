@@ -1,0 +1,2 @@
+# glitter
+Glitter RSS repo
