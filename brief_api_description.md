@@ -2,7 +2,7 @@
 
 | URL                             | Method | Description                |
 | :------------------------------ | ------ | ----------------------------- |
-| /register                       | POST   | Register<br />POST /register<br />{<br/>    'id': 'user_id',<br />    'nickname': 'nickname'(optional)<br />} |
+| /register                       | POST   | Register<br />POST /register<br />{<br/>&nbsp;&nbsp;&nbsp;&nbsp;'id': 'user_id',<br />    'nickname': 'nickname'(optional)<br />} |
 | /login | POST | Login<br />POST /login<br />{<br />    "username": "username",<br />    "password": "some password"<br />}<br />Status code 200 for success<br />{<br />    "login": "success",<br />    "token": "jwt的token",<br />    "ipfs": "user的ipfs id"<br />} |
 | /avatar | POST | Setting avatar<br />POST /avatar<br />{<br/>    'avatar_ipfs': 'ipfs to the avatar image'<br />} |
 | /avatar/<user_id> | GET | Get avatar by user_id<br />GET /avatar/user_id |
@@ -10,7 +10,7 @@
 | /nickname/<user_id>             | GET    | Get nickname by user_id<br />GET /nickname/user_id |
 | /backimg | POST | Setting background image of user<br />POST /backimg<br />{<br />    "backimg_ipfs": "ipfs address of background image"<br />} |
 | /backimg/<user_id> | GET | Get background image of user |
-| /user-sig | POST | Set user signature<br />POST /user-sig<br />{<br/>    'sig': '新的个性签名'<br />} |
+| /user-sig | POST | Set user signature<br />POST /user-sig<br />{<br/>    'sig': 'new signature'<br />} |
 | /user-sig/<user_id> | GET | Get signature by user_id<br />GET /user-sig/user_id |
 | /user/<user_id>?page=2 | GET | Get user timeline by user_id |
 | /rss | GET | Get a list of recommended rss |
