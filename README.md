@@ -19,6 +19,7 @@ Above is our technical architecture. All user data will be available on IPFS net
 
 - General: https://github.com/tedl-1990/glitter
 - UI design: https://github.com/tedl-1990/glitter-ui
+- App Implementation: https://github.com/tedl-1990/glitter-app
 
 ## Development Roadmap 
 
