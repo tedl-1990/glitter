@@ -23,7 +23,7 @@ Above is our technical architecture. All user data will be available on IPFS net
 ## Development Roadmap 
 
 ### Milestone 1 - API&UI Design - 2 Weeks
-- We will define the API standard between the front and back ends and form a document to be posted on github.
+- ([Done](https://github.com/tedl-1990/glitter/blob/main/brief_api_description.md))~~We will define the API standard between the front and back ends and form a document to be posted on github.~~
 - ([Done](https://github.com/tedl-1990/glitter-ui))~~We will finalize the front-end design for the initial app and web version and post the design on github.~~
 
 ### Milestone 2 - Backend API implementation & App Initial release - 1 month
