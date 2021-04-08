@@ -19,6 +19,7 @@ Above is our technical architecture. All user data will be available on IPFS net
 
 - General: https://github.com/tedl-1990/glitter
 - UI design: https://github.com/tedl-1990/glitter-ui
+- Backend Implementation: https://github.com/tedl-1990/glitter-backend
 - App Implementation: https://github.com/tedl-1990/glitter-app
 
 ## Development Roadmap 
@@ -28,11 +29,11 @@ Above is our technical architecture. All user data will be available on IPFS net
 - ([Done](https://github.com/tedl-1990/glitter-ui))~~We will finalize the front-end design for the initial app and web version and post the design on github.~~
 
 ### Milestone 2 - Backend API implementation & App Initial release - 1 month
-- Subscribe any RSS feed
-- Users can publish articles, microblog, images, videos and linkings
-- Direct Message to Friends
-- Comments, Repost, Upvote/Downvote and Favorites
-- Search content on our network
+- (Done)~~Subscribe any RSS feed~~
+- (Done)~~Users can publish articles, microblog, images, videos and linkings~~
+- (Done)~~Direct Message to Friends~~
+- (Done)~~Comments, Repost, Upvote/Downvote and Favorites~~
+- (Done)~~Search content on our network~~
 - All source code will be availble on github
 
 ### Milestone 3 - Play Store/App Store and Web Version - 3 weeks
