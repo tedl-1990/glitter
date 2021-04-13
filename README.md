@@ -34,6 +34,7 @@ Above is our technical architecture. All user data will be available on IPFS net
 - (Done)~~Direct Message to Friends~~
 - (Done)~~Comments, Repost, Upvote/Downvote and Favorites~~
 - (Done)~~Search content on our network~~
+- ([Done](https://github.com/tedl-1990/glitter-app)) ~~The App's source code is available on github~~
 - All source code will be availble on github
 
 ### Milestone 3 - Play Store/App Store and Web Version - 3 weeks
