@@ -39,7 +39,8 @@ Above is our technical architecture. All user data will be available on IPFS net
 - (Done)~~All source code will be availble on github~~
 
 ### Milestone 3 - Filecoin support + Play Store/App Store and Web Version - 6 weeks
-- Submit both iOS & Android app to App Store and Play Store
+- Submit to Apple App Store
+- ([Done](https://play.google.com/store/apps/details?id=link.glitter.app)) ~~Submit to Google Play Store~~
 - ([Done](https://reader.glitter.link/)) ~~Web version with the same functionality as the app version will be online~~
 - Source code will be available on github
 - A filecoin wallet will be integrated into the app
